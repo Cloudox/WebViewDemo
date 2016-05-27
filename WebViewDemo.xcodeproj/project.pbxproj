@@ -16,6 +16,7 @@
 		AD58A8C81CF7EFB900CBC988 /* WebViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD58A8C71CF7EFB900CBC988 /* WebViewDemoTests.m */; };
 		AD58A8D31CF7EFB900CBC988 /* WebViewDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD58A8D21CF7EFB900CBC988 /* WebViewDemoUITests.m */; };
 		AD58A8E11CF7F20100CBC988 /* URLPosition.png in Resources */ = {isa = PBXBuildFile; fileRef = AD58A8E01CF7F20100CBC988 /* URLPosition.png */; };
+		AD58A8E31CF7F33600CBC988 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = AD58A8E21CF7F33600CBC988 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		AD58A8D21CF7EFB900CBC988 /* WebViewDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebViewDemoUITests.m; sourceTree = "<group>"; };
 		AD58A8D41CF7EFB900CBC988 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD58A8E01CF7F20100CBC988 /* URLPosition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = URLPosition.png; sourceTree = "<group>"; };
+		AD58A8E21CF7F33600CBC988 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				AD58A8B91CF7EFB800CBC988 /* Assets.xcassets */,
 				AD58A8BB1CF7EFB800CBC988 /* LaunchScreen.storyboard */,
 				AD58A8BE1CF7EFB800CBC988 /* Info.plist */,
+				AD58A8E21CF7F33600CBC988 /* icon.png */,
 				AD58A8AD1CF7EFB800CBC988 /* Supporting Files */,
 			);
 			path = WebViewDemo;
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD58A8E11CF7F20100CBC988 /* URLPosition.png in Resources */,
+				AD58A8E31CF7F33600CBC988 /* icon.png in Resources */,
 				AD58A8BD1CF7EFB800CBC988 /* LaunchScreen.storyboard in Resources */,
 				AD58A8BA1CF7EFB800CBC988 /* Assets.xcassets in Resources */,
 				AD58A8B81CF7EFB800CBC988 /* Main.storyboard in Resources */,
